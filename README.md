@@ -26,8 +26,8 @@
 --
 ```
 ```math
-\begin{cases} m = log_{e}(x)\\
-n = log_{e}(y) \end{cases}
+\begin{cases} m = \log_{e}(x)\\
+n = \log_{e}(y) \end{cases}
 ```
 ```math
 \begin{cases} e^{m} = x\\
@@ -40,7 +40,7 @@ e^{n} = y \end{cases}
 \downarrow
 ```
 ```math
-log_{e}(x / y) = m - n = log_{e}(x) - log_{e}(y)
+\log_{e}(x / y) = m - n = \log_{e}(x) - \log_{e}(y)
 ```
 ```math
 --
