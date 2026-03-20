@@ -34,7 +34,13 @@ n = log_{e}(y) \end{cases}
 e^{n} = y \end{cases}
 ```
 ```math
-
+\frac{x}{y} = \frac{e^{m}}{e^{n}} = e^{m - n}
+```
+```math
+\downarrow
+```
+```math
+log_{e}(x / y) = m - n = log_{e}(x) - log_{e}(y)
 ```
 ```math
 --
